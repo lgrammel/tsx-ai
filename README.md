@@ -30,5 +30,5 @@ Quick guide how to use the [Vercel AI SDK](https://sdk.vercel.ai) with [TSX](htt
      process.stdout.write(textPart);
    }
    ```
-1. Make executable: `chmod +x hello-world.mjs`
-1. Run: `./hello-world.mjs`
+1. Make executable: `chmod +x hello-world.mts`
+1. Run: `./hello-world.mts`
